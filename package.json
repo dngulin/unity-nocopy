@@ -1,0 +1,6 @@
+{
+  "name": "dev.dngulin.nocopy",
+  "version": "0.0.1",
+  "displayName": "NoCopy",
+  "description": "This package provides NoCopy and NoCopyReturn attributes that help to control copying policy for marked structs"
+}
